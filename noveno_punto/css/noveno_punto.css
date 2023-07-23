@@ -1,0 +1,30 @@
+table{
+    background-color: yellow;
+    border: 1px black dotted;
+    margin: auto;
+    margin-top:20px;
+    border-spacing:0px;
+    border-collapse: collapse;
+    width:61%;
+    
+ }
+
+.a{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.b{
+    font-size: 11px;
+}
+
+td{border: 1px black dotted;
+    border-bottom-style:none;
+    border-right-style: none ;
+}
+
+.celda{ 
+   border-bottom-color: red;
+   border-bottom-style: dashed ;
+}

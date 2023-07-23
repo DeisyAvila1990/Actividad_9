@@ -1,0 +1,27 @@
+.a1{
+    color: green  ;
+    text-decoration: underline;
+}
+
+.a2{color: red;
+    font-weight: bold;
+}
+
+.a3{text-decoration: underline overline;
+}
+
+.a4{
+    font-size: 40px;
+    font-weight:bold;
+}
+
+.a5{font-weight: bold;
+color:blue ;
+}
+
+.a6{ color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.a7{ line-height:  3.2;
+}

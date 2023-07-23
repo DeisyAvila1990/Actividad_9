@@ -1,0 +1,18 @@
+.menu{
+    background-color: rgb(222, 186, 222);
+    width: 410px; ;
+    height: 34px; ;
+    margin: auto;
+    padding-top: 18px;
+    padding-left: 16px;;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+}
+
+a:hover{
+    background-color: blue;
+}
